@@ -1,0 +1,2 @@
+# springcloudConfig
+eshop-detail
